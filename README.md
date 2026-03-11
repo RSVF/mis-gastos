@@ -37,11 +37,11 @@
 
 ## Contacto · Contact
 
-  📧 [rsvf9@gmail.com](mailto:rsvf9@gmail.com)
+  📧 [rsvf99@gmail.com](mailto:rsvf99@gmail.com)
   🐙 [github.com/rsvf](https://github.com/rsvf)
 
   ---
 
-  *Desarrollado por RSVF · Developed by RSVF*
+  *Desarrollado por RSVF | RoSDev · Developed by RSVF | RoSDev*
 
   ---
