@@ -1,6 +1,7 @@
 # Mis Gastos · My Expenses
 
   **Mis Gastos** es una app gratuita para registrar gastos, ingresos y pagos fijos mensuales de forma simple y sin conexión a internet.
+  
   **My Expenses** is a free app to track expenses, incomes and monthly fixed payments — simple and offline.
 
   ---
